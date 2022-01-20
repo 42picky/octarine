@@ -2,7 +2,7 @@
   "name": "octarine",
   "displayName": "Octarine",
   "description": "Removes unmaintained extensions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "preview": true,
   "publisher": "42picky",
   "qna": false,
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/42picky/octarine.git"
   },
+  "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.63.0"
   },
